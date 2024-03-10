@@ -1,0 +1,55 @@
++------------------+
+| Date: 10-03-2024 |
++------------------+
+
+React JS (18)
+
+New Features of 18:
+
+Concurrent React
+Automatic Batching
+Transitions
+New Suspense Features
+Client and Server Reandering API
+Strict Mode Behaviour
+New Hooks
+	- useId
+	- useTransition
+	- useDeferredValue and many more.
+Routing V6
+
+Topics we are covering:
+
+React 17 and 18 new features
+JavaScript and TypeScript
+Redux
+React Native
+Introduction to Various Tool Chains
+
+Basic Idea:
+
+What are the challenges in Modern Web Development?
+
+Smart TV => Laptop => Mobile => Smart Watch
+1. Unified UX
+2. Fluid UX
+3. Loosely Coupled and Extensible (Catastrophic failure)
+
+What is the solution?
+Making SPA [Single Page Application]
+
+Can we use JavaScript and jQuery ?		Yes
+So many DOM manipulation logic writing
+
+First SPA website: Twitter
+
+What is the solution?
+- Better to use library or framework.
+- React, Angular, Vue, Ember, Backbone, Knockout etc.
+  [React = facebook]
+  [Angular = google]
+
+Developer's Platform: end-to-end solution from building to deploying. No need to depend on any third-party.
+
+Library and Framework:
+
