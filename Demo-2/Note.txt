@@ -1,0 +1,73 @@
++------------------+
+| Date: 12-03-2024 |
++------------------+
+
+When to go for React and when to go for Angular?
+
+- Library can build application.
+  Framework can build and control application flow.
+
+What is React?
+
+- React is a JavaScript library which is used to build UI
+- UI = SPA
+- Fluid UX
+- Unified UX
+- Loosely Coupled and Extensible
+
+React uses some framework:
+
+Ionic, NativeScript
+
+What are the features of React?
+
+1. Component Based
+   - Easy to build interface
+   - Easy to reuse
+   - Making building faster
+   - Easy to extend
+   - Loosely coupled
+
+2. Modular Library
+
+Legacy Library (50 features) => 5 features [importing all] => Bootstrap
+Modular Library (50 features) => 5 features [implort only the required] => Tailwind CSS
+
+   - Application specific library
+   - Improves the performance of the application
+   - Light-weight application.
+
+3. Asynchronous Library
+   - Implicitly uses Ajax
+
+4. Uses Virtual DOM
+
+5. Faster
+
+6. Better Performance
+
+Virtual DOM
+-----------
+
+1. What is DOM?
+
+2. What is Shadow DOM?
+
+Root and Shadow hierarchy
+
+<input type="file">
+
+3. Virtual DOM
+
+   - ReactDOM
+
+Cons of React:
+
+- React is a library [can build application but can't control flow]
+- Needs support of various frameworks explicitly.
+- React supports various 3rd party libraries.
+	Form and Validation: Formik, Yup
+	API: Axios etc.
+- Pace of developement is very fast.
+	First version: 2013 - 2022 (18)
+- Poor documentation
