@@ -7,6 +7,9 @@ When to go for React and when to go for Angular?
 - Library can build application.
   Framework can build and control application flow.
 
+- Actually, server-side technology also handles / uses a framework that is having rich features. In that case we don't need a framework on client side. We only need a UI in frontend so, library in frontend is better.
+  But sometimes, it requires to minimize the overhead on server and full control is required in frontend that's why in that case, framework on frontend is good.
+
 What is React?
 
 - React is a JavaScript library which is used to build UI
